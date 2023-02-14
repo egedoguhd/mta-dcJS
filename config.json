@@ -1,0 +1,19 @@
+{
+  "token": "bot_tokeni", 
+  "sunucid": "sunucunuzun_idsi",
+  "developer": "gelistirici_kisi_id",
+  "server": {
+    "ip": "mta_sunucusunun_id",
+    "port": "22003"
+  },
+  "guild": {
+    "jail": "jail_log_id"
+  },
+  "logs": {
+    "ban": "ban_log_id",
+    "basvuru": "basvuru_log_id"
+  },
+  "log": "genel_log_id",
+  "color": "#000",
+  "duration": 5000 
+}
