@@ -1,0 +1,30 @@
+{
+  "name": "v14-bos-altyapi",
+  "version": "0.0.3",
+  "description": "Herkesin işine yarayabileceği boş altyapı.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.0",
+    "nodemon": "^2.0.20",
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.26",
+    "gamedig": "^4.0.5",
+    "croxydb": "^0.0.7"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/romanwashere/v14altyapi"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "discordjs",
+    "js"
+  ]
+}
